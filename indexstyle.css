@@ -1,0 +1,15 @@
+/* body{
+    margin: auto;
+} */
+.d1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img{
+    height: 30em;
+}
+.d2{
+    font-family: monospace;
+    text-align: center;
+}
